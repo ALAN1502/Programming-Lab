@@ -1,0 +1,24 @@
+#integer
+a=10
+print("integer:",a,type(a))
+#float
+b=3.14
+print("float:",b,type(b))
+#String
+c="Hello"
+print("String:",c,type(c))
+#Boolean
+d=True
+print("Boolean",d,type(d))
+#List
+e=[1,2,3]
+print("List",e,type(e))
+#Tuple
+f=(1,2,3)
+print("Tuple",f,type(f))
+#Set
+g={1,2,3}
+print("Set",g,type(g))
+#Dictionary
+h={"name": "john","age": 25}
+print("Dictionary:",h,type(h))
